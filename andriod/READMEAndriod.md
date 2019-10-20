@@ -8,3 +8,5 @@
 (注意：下载的时候，如果移动网络下载不动，切换至WiFi进行下载)
 
 
+## 第二步：操作设置：
+![第一步](https://github.com/smallqiangno/use-guide/blob/master/andriod/andriod1.jpg)
