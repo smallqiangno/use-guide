@@ -13,27 +13,43 @@
 首先解压压缩包到一个目录下 
 
 ### 第一步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows1.png" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows1.png" width="759" height="309" alt="图片加载失败时，显示这段字"/>  
 
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows2.png" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows2.png" width="457" height="362" alt="图片加载失败时，显示这段字"/>  
 
 
 ### 第二步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows3.png" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows3.png" width="585" height="458" alt="图片加载失败时，显示这段字"/>  
 
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows4.png" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows4.png" width="1018" height="500" alt="图片加载失败时，显示这段字"/>  
 
 ### 第三步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows5.png" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows5.png" width="752" height="449" alt="图片加载失败时，显示这段字"/>  
 
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows6.png" width="300" height="364" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows6.png" width="723" height="421" alt="图片加载失败时，显示这段字"/>    
+
+
+**注意：**
+1.不使用软件的时候：小飞机右键→系统代理模式→调到直连模式→再退出（即：不使用软件→退出前→先调到直接模式），退出小飞机前，不调到直连模式，国内网页打不开
+
+2.下次使用软件的时候：打开软件存放文件夹→运行小飞机→右键电脑右下角小飞机→系统代理模式→调回全局模式（即：使用软件→运行后→调到全局模式）
+
+3.如果你觉得每次都按照上面的操作步骤略麻烦，那退出小飞机或者关机时可以不用任何操作，但开机后如果你不打开小飞机，是无法连接国内网络的，此时你只需要把网络的代理手动关掉即可！  
+
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows7.png" width="986" height="633" alt="图片加载失败时，显示这段字"/>  
+
+
 
 ### 常见问题（重要）
 
-a：复制“4条SSR开头的链接”的时候不要复制到汉字或者空格，否则会添加失败
+a：自己电脑装有谷歌浏览器的，如果有谷歌插件或谷歌助手，可能需要卸载插件或者卸载浏览器重装
 
-b：卡慢及连接不上的解决办法：①回到小飞机软件首页，切换服务器国家试试，换浏览器试试；②自身网络信号不好；③不能多台机子同时使用（不能给其他人用，这个是在服务器端设置的）；账号已过期；⑤问题都没有解决，卸载软件重装试试
+b：如果 YouTube.com 能打开，有的不能打开（比如谷歌学术等）或者不能谷歌搜索，小飞机右键→系统代理模式调到全局→代理规则调到全局（2个全局），重开浏览器（打不开换其他浏览器刷新几次）
 
-c：IP没变：回到小飞机软件首页→路由→调到全局→重开浏览器（一般默认配置即可，不要乱动）
+c：IP没变：小飞机右键→系统代理模式调到全局→代理规则调到全局（2个全局），重开浏览器就好（一般默认配置即可，不要乱动）
 
-d：有其他问题可留言！
+d：切换线路：小飞机右键→服务器负载均衡前面的勾号去掉→重启电脑→小飞机右键→服务器来选择
+
+e：卡慢及连接不上的解决办法：①切换线路试试，换浏览器试试；②自身网络信号不好；③不能多台机子同时使用（不能给其他人用）；④小飞机软件系统代理模式不能选直连；⑤账号到期了；⑥问题都没有解决，卸载软件重装试试
+
+f：有其他问题可联系我！
