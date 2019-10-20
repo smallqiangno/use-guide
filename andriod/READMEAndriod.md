@@ -30,4 +30,4 @@
 <img src="https://github.com/smallqiangno/use-guide/blob/master/andriod/andriod6.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
 
 ### 个别情况：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/andriod/andriod7.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/smallqiangno/use-guide/blob/master/andriod/andriod7.jpg" width="300" height="364" alt="图片加载失败时，显示这段字"/>
