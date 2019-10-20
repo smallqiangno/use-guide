@@ -13,20 +13,20 @@
 首先解压压缩包到一个目录下 
 
 ### 第一步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows1.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows1.png" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
 
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows2.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows2.png" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
 
 
 ### 第二步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows3.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows3.png" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
 
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows4.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows4.png" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
 
 ### 第三步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows5.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows5.png" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
 
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows6.jpg" width="300" height="364" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows6.png" width="300" height="364" alt="图片加载失败时，显示这段字"/>  
 
 ### 常见问题（重要）
 
