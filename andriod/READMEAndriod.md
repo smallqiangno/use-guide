@@ -9,4 +9,5 @@
 
 
 ## 第二步：操作设置：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/andriod/andriod1.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+### 第一步：
+<img src="https://github.com/smallqiangno/use-guide/blob/master/andriod/andriod1.jpg" width="200" height="356" alt="图片加载失败时，显示这段字"/>
