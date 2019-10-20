@@ -9,28 +9,24 @@
 
 
 ## 第二步：操作设置：
+
+首先解压压缩包到一个目录下 
+
 ### 第一步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/andriod/andriod1.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows1.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows2.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+
 
 ### 第二步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/andriod/andriod2.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows3.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows4.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
 
 ### 第三步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/andriod/andriod3.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows5.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
 
-
-### 第四步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/andriod/andriod4.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
-
-
-### 第五步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/andriod/andriod5.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
-
-### 第六步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/andriod/andriod6.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
-
-### 个别情况：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/andriod/andriod7.jpg" width="300" height="364" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows6.jpg" width="300" height="364" alt="图片加载失败时，显示这段字"/>  
 
 ### 常见问题（重要）
 
