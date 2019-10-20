@@ -3,7 +3,7 @@
 
 多台设备不能同时登陆使用，只能两个设备同时在线，每个用户独立专线，网速飞一般的感觉，有问题联系我！
 点击下载软件→安装SSR软件（安装不了联系我）  
-[点击下载](https://github.com/smallqiangno/use-guide/blob/master/software/SSR-3.5.4.apk)  
+[点击下载](https://github.com/smallqiangno/use-guide/blob/master/software/ShadowsocksR-win-4.9.0.zip)  
 
 (注意：下载的时候，如果移动网络下载不动，切换至WiFi进行下载)
 
