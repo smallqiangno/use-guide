@@ -5,6 +5,6 @@
 点击下载软件→安装SSR软件（安装不了联系QQ客服要软件）  
 [点击下载](https://github.com/smallqiangno/use-guide/blob/master/software/SSR-3.5.4.apk)  
 
-（注意：下载的时候，如果移动网络下载不动，切换至WiFi进行下载）
+(注意：下载的时候，如果移动网络下载不动，切换至WiFi进行下载)
 
 
