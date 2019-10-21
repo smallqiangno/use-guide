@@ -5,6 +5,8 @@
 点击下载软件→安装SSR软件（安装不了联系我）  
 [点击下载](https://github.com/smallqiangno/use-guide/blob/master/software/SSR-3.5.4.apk)  
 
+<img src="https://github.com/smallqiangno/use-guide/blob/master/andriod/andriod8.jpg" width="200" height="390" alt="图片加载失败时，显示这段字"/>  
+
 (注意：下载的时候，如果移动网络下载不动，切换至WiFi进行下载)
 
 
