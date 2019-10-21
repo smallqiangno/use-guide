@@ -24,7 +24,7 @@ MAC 没有显示“任何来源”选项 怎么办  [点击这里查看解决办
 <img src="https://github.com/smallqiangno/use-guide/blob/master/mac/mac4.jpg" width="400" height="202" alt="图片加载失败时，显示这段字"/> 
 
 
-### 第二步：打开开关：任务栏小飞机右键→选中“服务器”选择其中一个服务器线路→ 打开 Shadowsocks（即选中 Shadowsocks：on ，打开） → 完成操作
+### 第三步：打开开关：任务栏小飞机右键→选中“服务器”选择其中一个服务器线路→ 打开 Shadowsocks（即选中 Shadowsocks：on ，打开） → 完成操作
 
 <img src="https://github.com/smallqiangno/use-guide/blob/master/mac/mac5.jpg" width="400" height="257" alt="图片加载失败时，显示这段字"/> 
 
