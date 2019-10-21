@@ -5,6 +5,8 @@
 点击下载软件→安装SSR软件（安装不了可联系我）  
 [点击下载](https://github.com/smallqiangno/use-guide/blob/master/software/ShadowsocksR-win-4.9.0.zip)  
 
+<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows8.png" width="1115" height="356" alt="图片加载失败时，显示这段字"/>  
+
 (注意：下载的时候，如果移动网络下载不动，切换至WiFi进行下载)
 
 
