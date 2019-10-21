@@ -5,7 +5,7 @@
 
 
 ## 二.电脑 (win7/8/10）
-[点击进入](https://github.com/smallqiangno/use-guide/blob/master/andriod/READMEAndriod.md)  
+[点击进入](https://github.com/smallqiangno/use-guide/blob/master/windows/READMEWindows.md)  
 
 ## 三.苹果手机、ipad平板
 [点击进入](https://github.com/smallqiangno/use-guide/blob/master/ios/READMEIos.md)  
