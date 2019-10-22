@@ -64,7 +64,7 @@
 
 ## 第二步：安装SSR：
 
-我们使用的是逗逼的一键安装脚本，非常省事而且功能强大,适合自己搭建梯子建若干个账户来用，如果账户很多，那就需要面板的方法了，面板的方法在下一篇文章中讲解！其特点如下：
+我们使用的是逗比的一键安装脚本，非常省事而且功能强大,适合自己搭建梯子建若干个账户来用，如果账户很多，那就需要面板的方法了，面板的方法在下一篇文章中讲解！其特点如下：
 
 * 支持 限制 用户速度
 * 支持 限制 端口设备数
@@ -75,48 +75,38 @@
 * 支持 一键安装 BBR（VPS必须是KVM架构）
 * 支持 一键封禁 垃圾邮件(SMAP)/BT/PT
 
-### 第一步：获取逗逼脚本
+### 第一步：获取逗比脚本
 ```$xslt
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 ```
 注意：
 * 第14项，是指与SSR无关的其它功能，比如锐速/BBR安装等。本文随后专门介绍。
-* 关于第3项的libsodium：如果你在随后安装中，准备选择的加密方式是chacha20系列，那么需要额外安装这个，其它加密方式可以忽略。另外目前逗逼的脚本中虽然提供了安装libsodium的选项，但是其是不可用的，如果需要我们需另外安装它，稍后会介绍如何单独安装libsodium！
+* 关于第3项的libsodium：如果你在随后安装中，准备选择的加密方式是chacha20系列，那么需要额外安装这个，其它加密方式可以忽略。另外目前逗比的脚本中虽然提供了安装libsodium的选项，但是其是不可用的，如果需要我们需另外安装它，稍后会介绍如何单独安装libsodium！
 
 <img src="https://github.com/smallqiangno/use-guide/blob/master/server/server1.png" width="833" height="398" alt="图片加载失败时，显示这段字"/>  
 
-### 第二步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows3.png" width="585" height="458" alt="图片加载失败时，显示这段字"/>  
+### 第二步：输入数字1，开始安装，首先要先设置端口
+<img src="https://github.com/smallqiangno/use-guide/blob/master/server/server2.png" width="796" height="84" alt="图片加载失败时，显示这段字"/>  
 
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows4.png" width="1018" height="500" alt="图片加载失败时，显示这段字"/>  
+### 第三步：设置密码
+<img src="https://github.com/smallqiangno/use-guide/blob/master/server/server3.png" width="852" height="110" alt="图片加载失败时，显示这段字"/>  
+   
+### 第五步：设置加密算法，这里设置none
+<img src="https://github.com/smallqiangno/use-guide/blob/master/server/server4.png" width="798" height="444" alt="图片加载失败时，显示这段字"/>  
 
-### 第三步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows5.png" width="752" height="449" alt="图片加载失败时，显示这段字"/>  
+### 第五步：设置协议，这里设置auth_chain_a
+<img src="https://github.com/smallqiangno/use-guide/blob/master/server/server5.png" width="717" height="188" alt="图片加载失败时，显示这段字"/>  
 
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows6.png" width="723" height="421" alt="图片加载失败时，显示这段字"/>    
+### 第六步：设置混淆，这里设置tls1.2_ticket_auth
+<img src="https://github.com/smallqiangno/use-guide/blob/master/server/server6.png" width="811" height="204" alt="图片加载失败时，显示这段字"/>  
+
+提示是否兼容原版，这里选择不兼容：n
+<img src="https://github.com/smallqiangno/use-guide/blob/master/server/server7.png" width="766" height="85" alt="图片加载失败时，显示这段字"/>  
+
+### 第七步：设置设备数限制、网速限制（这里我没设置，因为自己使用，你还限制个锤子）
+<img src="https://github.com/smallqiangno/use-guide/blob/master/server/server8.png" width="825" height="202" alt="图片加载失败时，显示这段字"/>  
+
+### 第八步：以上设置完成后，就进入了安装过程，如果需要输入y的时候输入y即可，耐心等待，最后成功的结果如图所示，拷贝ssr链接到客户端即可
+<img src="https://github.com/smallqiangno/use-guide/blob/master/server/server9.png" width="889" height="385" alt="图片加载失败时，显示这段字"/>  
 
 
-**注意：**
-1.不使用软件的时候：小飞机右键→系统代理模式→调到直连模式→再退出（即：不使用软件→退出前→先调到直接模式），退出小飞机前，不调到直连模式，国内网页打不开
-
-2.下次使用软件的时候：打开软件存放文件夹→运行小飞机→右键电脑右下角小飞机→系统代理模式→调回全局模式（即：使用软件→运行后→调到全局模式）
-
-3.如果你觉得每次都按照上面的操作步骤略麻烦，那退出小飞机或者关机时可以不用任何操作，但开机后如果你不打开小飞机，是无法连接国内网络的，此时你只需要把网络的代理手动关掉即可！  
-
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows7.png" width="986" height="633" alt="图片加载失败时，显示这段字"/>  
-
-
-
-### 常见问题（重要）
-
-a：自己电脑装有谷歌浏览器的，如果有谷歌插件或谷歌助手，可能需要卸载插件或者卸载浏览器重装
-
-b：如果 YouTube.com 能打开，有的不能打开（比如谷歌学术等）或者不能谷歌搜索，小飞机右键→系统代理模式调到全局→代理规则调到全局（2个全局），重开浏览器（打不开换其他浏览器刷新几次）
-
-c：IP没变：小飞机右键→系统代理模式调到全局→代理规则调到全局（2个全局），重开浏览器就好（一般默认配置即可，不要乱动）
-
-d：切换线路：小飞机右键→服务器负载均衡前面的勾号去掉→重启电脑→小飞机右键→服务器来选择
-
-e：卡慢及连接不上的解决办法：①切换线路试试，换浏览器试试；②自身网络信号不好；③不能多台机子同时使用（不能给其他人用）；④小飞机软件系统代理模式不能选直连；⑤账号到期了；⑥问题都没有解决，卸载软件重装试试
-
-f：有其他问题可联系我！
