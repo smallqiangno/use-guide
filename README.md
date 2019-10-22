@@ -11,3 +11,7 @@
 
 ## 四.Mac苹果电脑
 [点击进入](https://github.com/smallqiangno/use-guide/blob/master/mac/READMEMac.md)
+
+
+# **手把手教你如何搭建SSR服务端**
+## [使用逗逼脚本安装]
