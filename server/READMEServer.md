@@ -91,7 +91,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 ### 第三步：设置密码
 <img src="https://github.com/smallqiangno/use-guide/blob/master/server/server3.png" width="852" height="110" alt="图片加载失败时，显示这段字"/>  
    
-### 第五步：设置加密算法，这里设置none
+### 第四步：设置加密算法，这里设置none
 <img src="https://github.com/smallqiangno/use-guide/blob/master/server/server4.png" width="798" height="444" alt="图片加载失败时，显示这段字"/>  
 
 ### 第五步：设置协议，这里设置auth_chain_a
