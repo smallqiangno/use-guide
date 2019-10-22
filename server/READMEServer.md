@@ -75,11 +75,15 @@
 * 支持 一键安装 BBR（VPS必须是KVM架构）
 * 支持 一键封禁 垃圾邮件(SMAP)/BT/PT
 
-### 第一步：
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows1.png" width="759" height="309" alt="图片加载失败时，显示这段字"/>  
+### 第一步：获取逗逼脚本
+```$xslt
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+```
+注意：
+* 第14项，是指与SSR无关的其它功能，比如锐速/BBR安装等。本文随后专门介绍。
+* 关于第3项的libsodium：如果你在随后安装中，准备选择的加密方式是chacha20系列，那么需要额外安装这个，其它加密方式可以忽略。另外目前逗逼的脚本中虽然提供了安装libsodium的选项，但是其是不可用的，如果需要我们需另外安装它，稍后会介绍如何单独安装libsodium！
 
-<img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows2.png" width="457" height="362" alt="图片加载失败时，显示这段字"/>  
-
+<img src="https://github.com/smallqiangno/use-guide/blob/master/server/server1.png" width="833" height="398" alt="图片加载失败时，显示这段字"/>  
 
 ### 第二步：
 <img src="https://github.com/smallqiangno/use-guide/blob/master/windows/windows3.png" width="585" height="458" alt="图片加载失败时，显示这段字"/>  
