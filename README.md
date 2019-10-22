@@ -1,17 +1,23 @@
-# **介绍SSR各个客户端的使用说明**
+# **SSR客户端使用教程、服务端搭建教程**
+1.本教程仅供交流学习使用，禁止用于非法用途！  
 
-## 一.安卓：手机、平板
+2.如果你是普通用户您只需阅读客户端如何使用即可，账号信息联系我获取! 如果你是IT相关人员具备搭建服务端的基础，可根据“手把手教你如何搭建SSR服务端”教程自己搭建属于自己的梯子！
+
+
+## **SSR各个客户端的使用教程**
+
+### 一.安卓：手机、平板
 [点击进入](https://github.com/smallqiangno/use-guide/blob/master/andriod/READMEAndriod.md)
 
-## 二.电脑 (win7/8/10）
+### 二.电脑 (win7/8/10）
 [点击进入](https://github.com/smallqiangno/use-guide/blob/master/windows/READMEWindows.md)  
 
-## 三.苹果：手机、平板
+### 三.苹果：手机、平板
 [点击进入](https://github.com/smallqiangno/use-guide/blob/master/ios/READMEIos.md)  
 
-## 四.Mac苹果电脑
+### 四.Mac苹果电脑
 [点击进入](https://github.com/smallqiangno/use-guide/blob/master/mac/READMEMac.md)
 
 
-# **手把手教你如何搭建SSR服务端**
-## [使用逗逼脚本安装]
+## **手把手教你如何搭建SSR服务端**
+[使用逗逼脚本安装]()
