@@ -5,7 +5,7 @@
 
 ### 安装成功后，其面板如下所示，比较方便的管理用户，以及进行推广等
 
-<img src="https://github.com/smallqiangno/use-guide/blob/master/server/ssrpanel1.png" width="999" height="311" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/server/ssrpanel1.png" width="999" height="511" alt="图片加载失败时，显示这段字"/>  
 
 至于怎么安装，我这就先不提供教程了，有途径的可以去自行摸索，这里就先抛砖引玉吧！
 
