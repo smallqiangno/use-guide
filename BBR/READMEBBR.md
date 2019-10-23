@@ -32,20 +32,23 @@ bash tcp_nanqinlang-1.3.2.sh
 2.出现下图提示时，输入数字1选择安装内核，然后回车：  
 
 <img src="https://github.com/smallqiangno/use-guide/blob/master/BBR/bbr1.jpg" width="271" height="107" alt="图片加载失败时，显示这段字"/>  
+
 3.接下来的安装过程中，部分系统可能会有如下提示，提示删除旧的内核，是否取消。这是选择No后回车，确认删除。
 
 <img src="https://github.com/smallqiangno/use-guide/blob/master/BBR/bbr2.jpg" width="600" height="290" alt="图片加载失败时，显示这段字"/>  
+
 4.安装内核成功后会出现如下提示，输入reboot回车重启系统：  
 
 <img src="https://github.com/smallqiangno/use-guide/blob/master/BBR/bbr3.jpg" width="559" height="117" alt="图片加载失败时，显示这段字"/>  
+
 5.重启后，找到开始脚本下载的目录，输入如下命令：  
 ```
 bash tcp_nanqinlang-1.3.2.sh
 ```  
-
 出现如下界面，输入2安装并开启算法：  
 
 <img src="https://github.com/smallqiangno/use-guide/blob/master/BBR/bbr4.jpg" width="271" height="107" alt="图片加载失败时，显示这段字"/>  
+
 6.稍等片刻，安装成功后的提示如下图：   
 
 <img src="https://github.com/smallqiangno/use-guide/blob/master/BBR/bbr5.jpg" width="367" height="69" alt="图片加载失败时，显示这段字"/>  
