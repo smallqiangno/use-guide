@@ -4,7 +4,7 @@
 2.如果您是普通用户您只需阅读“SSR各个客户端的使用教程”即可，所需的账号信息联系我获取，QQ：2995350293! 如果你是IT相关人员具备搭建服务端的基础，可根据“手把手教你如何搭建SSR服务端”教程搭建属于自己的梯子！
 
 
-## **SSR各个客户端的使用教程**
+## **第一部分：SSR各个客户端的使用教程**
 
 ### 一.安卓：手机、平板
 [点击进入](https://github.com/smallqiangno/use-guide/blob/master/andriod/READMEAndriod.md)
@@ -19,5 +19,5 @@
 [点击进入](https://github.com/smallqiangno/use-guide/blob/master/mac/READMEMac.md)
 
 
-## **手把手教你如何搭建SSR服务端**
+## **第二部分：手把手教你如何搭建SSR服务端**
 [使用逗逼脚本安装](https://github.com/smallqiangno/use-guide/blob/master/server/READMEServer.md)
