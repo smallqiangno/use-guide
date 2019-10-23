@@ -27,6 +27,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 * 第14项，是指与SSR无关的其它功能，比如锐速/BBR安装等。本文随后专门介绍。
 * 关于第3项的libsodium：如果你在随后安装中，准备选择的加密方式是chacha20系列，那么需要额外安装这个，其它加密方式可以忽略。另外目前逗比的脚本中虽然提供了安装libsodium的选项，但是其是不可用的，如果需要我们需另外安装它，稍后会介绍如何单独安装libsodium！
 * 下面的示例中我设置的参数和脚本推荐的参数不一致，这个可以根据自己需要进行设置!
+* 逗比的脚本中不提供混淆参数和协议参数的配置，原因是其认为这些参数无利于防封而且会降低5%到10%左右的速度，但我见过的小型商业化的系统其是配置这两个参数的！
 
 <img src="https://github.com/smallqiangno/use-guide/blob/master/server/server1.png" width="833" height="398" alt="图片加载失败时，显示这段字"/>  
 
