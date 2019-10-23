@@ -6,10 +6,10 @@
 ### 一. 合理的配置相关参数：
 我的配置如下，这个也是我抄袭的之前卖给我梯子的那人的配置，我用了大概一年多，一直很稳定，有可能他的机器也被封过啊，只不过随时换了机器：
 加密算法：none  
-协议：auth_chain_a  
+**协议：auth_chain_a  
 混淆：tls1.2_ticket_auth  
 混淆参数：pb.tedcdn.com（此处是伪装你正在访问此网站，很多人说没什么卵用，不过还是配置一下比较好）  
-设置redirect参数:该设置是当有GFW的机器扫描你的服务器后，会自动跳转到你配置的网站，如果配置多个，会随机挑选一个跳转！
+设置redirect参数:该设置是当有GFW的机器扫描你的服务器后，会自动跳转到你配置的网站，如果配置多个，会随机挑选一个跳转！**
 <img src="https://github.com/smallqiangno/use-guide/blob/master/server/serverResistance1.png" width="1348" height="622" alt="图片加载失败时，显示这段字"/>  
 
 ### 二.禁用掉一直在莫名扫描你的服务器的机器IP  
