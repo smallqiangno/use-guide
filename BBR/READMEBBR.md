@@ -41,7 +41,7 @@ bash tcp_nanqinlang-1.3.2.sh
 5.重启后，找到开始脚本下载的目录，输入如下命令：  
 ```
 bash tcp_nanqinlang-1.3.2.sh
-```
+```  
 
 出现如下界面，输入2安装并开启算法：  
 
