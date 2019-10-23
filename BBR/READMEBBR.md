@@ -42,6 +42,7 @@ bash tcp_nanqinlang-1.3.2.sh
 ```
 bash tcp_nanqinlang-1.3.2.sh
 ```
+
 出现如下界面，输入2安装并开启算法：  
 
 <img src="https://github.com/smallqiangno/use-guide/blob/master/BBR/bbr4.jpg" width="271" height="107" alt="图片加载失败时，显示这段字"/>  
