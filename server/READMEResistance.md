@@ -20,7 +20,7 @@
 <img src="https://github.com/smallqiangno/use-guide/blob/master/server/serverResistance2.png" width="1141" height="413" alt="图片加载失败时，显示这段字"/>   
 
 **解决方案：启动防火墙，然后执行ssr安装目录下的utils目录下的autoban.py脚本，通过防火墙禁掉这些IP！  
- 原脚本的禁用规则是不可用的，所以我修改了一下原脚本，需要的可以去下载！（这个脚本采用的是firewalld防火墙，一般centos7以上的操作系统用的都是该防火墙）**
+ 原脚本的禁用规则是不可用的，所以我修改了一下原脚本，需要的可以去下载！（这个脚本采用的是firewalld防火墙，一般centos7以上的操作系统用的都是该防火墙）**  
  执行脚本命令：
  ```
  python autoban.py < ../ssserver.log
