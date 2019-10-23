@@ -4,7 +4,7 @@
 **曾经开源界出过好几款ssr的后台控制面板，但后来无一例外的作者都被请去喝茶了，比如sspanel，ssrpanel，下面要讲的就是ssrpanel面板的安装使用教程**
 
 ### 安装成功后，其面板如下所示，比较方便的管理用户，以及进行推广等
-<img src="https://github.com/smallqiangno/use-guide/blob/master/server/serverpanel1.png" width="1348" height="622" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/smallqiangno/use-guide/blob/master/server/serverpanel.png" width="1348" height="622" alt="图片加载失败时，显示这段字"/>  
 
 **至于怎么安装，我这就先不提供教程了，有途径的可以去自行摸索，这里就先抛砖引玉吧！**
 ### 第一步：找到ssrpanel安装包，这个目前在github上还是留存部分用户fork出来的版本的，所以大家可以去查找然后安装ssrpanel；
