@@ -56,3 +56,27 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 <img src="https://github.com/smallqiangno/use-guide/blob/master/server/server9.png" width="889" height="385" alt="图片加载失败时，显示这段字"/>  
 
 
+### 额外步骤1：如果加密方式是chacha20系列，则需要安装libsodium，安装方式如下：
+1. 下载最新稳定版本
+wget -N --no-check-certificate https://github.com/jedisct1/libsodium/releases/download/1.0.18-RELEASE/libsodium-1.0.18.tar.gz
+2. 解压
+tar xf libsodium-1.0.18.tar.gz && cd libsodium-1.0.18
+3. 编译
+./configure --disable-maintainer-mode && make -j2 && make install
+4. 配置
+echo /usr/local/lib > /etc/ld.so.conf.d/usr_local_lib.conf
+ldconfig  
+
+### 额外步骤2：安装BBR加速工具,BBR是谷歌出品的TCP拥塞控制算法，有人专门测试过，安装后网速会提升数倍，魔改版的BBR甚至能到几十倍(这个感觉有的夸张了)
+#### 原版BBR安装
+1. 获取脚本并自动执行脚本
+```wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
+```
+2.安装完成后如果有提示重启，则输入y进行重启  
+3.重启成功后，重新连接服务器,输入如下命令进行验证是否安装成功：  
+```
+sysctl net.ipv4.tcp_congestion_control
+```
+如果出现如下结果则表示安装成功：
+net.ipv4.tcp_congestion_control = bbr
+
