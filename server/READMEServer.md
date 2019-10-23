@@ -70,13 +70,15 @@ ldconfig
 ### 额外步骤2：安装BBR加速工具,BBR是谷歌出品的TCP拥塞控制算法，有人专门测试过，安装后网速会提升数倍，魔改版的BBR甚至能到几十倍(这个感觉有的夸张了)
 #### 原版BBR安装
 1. 获取脚本并自动执行脚本
-```wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
 ```
-2.安装完成后如果有提示重启，则输入y进行重启  
+wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
+```
+2.安装完成后如果有提示重启，则输入y进行重启 
+
 3.重启成功后，重新连接服务器,输入如下命令进行验证是否安装成功：  
 ```
 sysctl net.ipv4.tcp_congestion_control
 ```
-如果出现如下结果则表示安装成功：
+如果出现如下结果则表示安装成功：  
 net.ipv4.tcp_congestion_control = bbr
 
