@@ -38,7 +38,7 @@ bash tcp_nanqinlang-1.3.2.sh
 4.安装内核成功后会出现如下提示，输入reboot回车重启系统：  
 
 <img src="https://github.com/smallqiangno/use-guide/blob/master/BBR/bbr3.jpg" width="559" height="117" alt="图片加载失败时，显示这段字"/>  
-5.重启后，找到开始脚本下载的目录，输入如下命令：
+5.重启后，找到开始脚本下载的目录，输入如下命令：  
 ```
 bash tcp_nanqinlang-1.3.2.sh
 ```
