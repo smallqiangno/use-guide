@@ -56,6 +56,10 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 <img src="https://github.com/smallqiangno/use-guide/blob/master/server/server9.png" width="889" height="385" alt="图片加载失败时，显示这段字"/>  
 
 
+**注意事项**
+如果安装成功后，连不上外网，最常见的原因就是你开启了防火墙，而你的端口未加入到防火墙中，所以这时你需要检查你是否开启了防火墙，以及把你刚刚设置的端口加入到防火墙中！
+
+
 ### 额外步骤1：如果加密方式是chacha20系列，则需要安装libsodium，安装方式如下：
 1. 下载最新稳定版本
 wget -N --no-check-certificate https://github.com/jedisct1/libsodium/releases/download/1.0.18-RELEASE/libsodium-1.0.18.tar.gz
